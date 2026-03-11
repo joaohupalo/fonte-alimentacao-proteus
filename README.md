@@ -30,7 +30,7 @@ Esta fonte de alimentação converte tensão AC da rede elétrica em **12V DC re
 
 1. A tensão AC entra pelo conector **J2**
 2. A **ponte retificadora BR1** converte AC em DC pulsante
-3. **C3 (1000µF)** filtra o ripple, suavizando a tensão
+3. **C3 (1000µF)** filtra a ondulação da tensão, suavizando a saída
 4. **C2 (100nF)** estabiliza a entrada do regulador
 5. O **7812 (U1)** regula a saída para exatamente **12V DC**
 6. **C1 (100nF)** estabiliza a saída do regulador
