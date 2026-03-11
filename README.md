@@ -43,29 +43,25 @@ Esta fonte de alimentação converte tensão AC da rede elétrica em **12V DC re
 
 ### Esquemático
 
-<!-- Adicione aqui a imagem do esquemático -->
-> *Substitua pelo caminho da imagem:* `![Esquemático](img/01.jpg)`
+![Esquemático](img/01.jpg)
 
 ---
 
 ### Layout PCB
 
-<!-- Adicione aqui a imagem do layout de PCB -->
-> *Substitua pelo caminho da imagem:* `![PCB Layout](img/02.jpg)`
+![PCB](img/02.jpg)
 
 ---
 
 ### Visualização 3D — Face Superior
 
-<!-- Adicione aqui a imagem 3D da face superior -->
-> *Substitua pelo caminho da imagem:* `![3D - Face Superior](img/03.jpg)`
+![3DSuperior](img/03.jpg)
 
 ---
 
 ### Visualização 3D — Face Inferior (Trilhas)
 
-<!-- Adicione aqui a imagem 3D da face inferior -->
-> *Substitua pelo caminho da imagem:* `![3D - Face Inferior](img/04.jpg)`
+![3DInferior](img/04.jpg)
 
 ---
 
