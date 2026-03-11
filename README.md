@@ -90,7 +90,7 @@ Esta fonte de alimentação converte tensão AC da rede elétrica em **12V DC re
 │   ├── 03.jpg        # Render 3D - face superior
 │   └── 04.jpg        # Render 3D - face inferior (trilhas)
 ├── proteus/
-│   └── fonte_12v.pdsprj
+│   └── CarregadorCelular.pdsprj
 └── README.md
 ```
 
